@@ -1,0 +1,50 @@
+
+.gallery-container {
+    background-color: whitess;
+    margin-top: 100px;
+    font-family: 'Rubik Mono One', sans-serif;
+    
+    
+}
+.container-portfolio {
+    text-align: center;
+    font-family:'Rubik Mono One', sans-serif;
+    font-size: 200px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+  
+}
+   
+
+. url(img src="img/alinash.jpg) {
+    margin-bottom: 100px;
+}
+
+}
+.navbar-nav{
+ font-family: 'Rubik Mono One', sans-serif;
+    font-size: 20pt;
+    margin-bottom: 30px;
+    font-kerning: 50pt;
+}
+.slider{
+    margin-top:0 px;
+    background-color:fuchsia;
+    background-size: 800px;
+    margin-bottom: 200px;
+    text-align: center;
+    font-family: 'Rubik Mono One', sans-serif;
+    color: white;
+   
+}
+.text{
+    text-align: center;
+     font-family: 'Rubik Mono One', sans-serif;
+    color:fuchsia;
+    font-size: 300pt;
+    margin-top: 300px;
+}
+
+.container-contacts{
+  margin-left: 0px;
+}
